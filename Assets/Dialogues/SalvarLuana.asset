@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d64d52e93e683254cbcda86f4b95427e, type: 3}
+  m_Name: SalvarLuana
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueData
+  lines:
+  - speakerName: "Em\xEDlia"
+    text: "-Jonathan se segura a\xED.\n-Vou ajudar sua irm\xE2."
+    leftPortrait: {fileID: 21300000, guid: 435c5fc3c6cd9e449bf1aa0da2715463, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 402d3bebe583e6e49818cb5c68f41e22, type: 3}
+    speakerIsLeft: 1
+  - speakerName: Luana
+    text: '-COF...COF (tossindo)
+
+      -Valeu'
+    leftPortrait: {fileID: 21300000, guid: 402d3bebe583e6e49818cb5c68f41e22, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 1a3a4157e683c5841b2c216d72eb59df, type: 3}
+    speakerIsLeft: 1
+  - speakerName: Jonathan
+    text: -AAAAAAAAAAAAAA
+    leftPortrait: {fileID: 21300000, guid: 8caedf784575d70499f26b8ea77dbda9, type: 3}
+    rightPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    speakerIsLeft: 1
+  - speakerName: 
+    text: "**Jonattan \xE9 puxado pela correnteza, sumindo de vista por alguns segundos,
+      antes de \r\nemergir de novo, nas costas de Janaina."
+    leftPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    rightPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    speakerIsLeft: 1
+  - speakerName: Janaina
+    text: -Te peguei Garoto!
+    leftPortrait: {fileID: -6647161664777992981, guid: 3e0369b32ab9a2c4b9895d099968d158, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 8caedf784575d70499f26b8ea77dbda9, type: 3}
+    speakerIsLeft: 1
+  - speakerName: 
+    text: "*Jonattan e Janaina chegam \xE0 margem. Jonattan est\xE1 bastante ofegante
+      e completamente \r\nsem f\xF4lego, mas Jana\xEDna est\xE1 surpreendentemente
+      okay com a situa\xE7\xE3o. "
+    leftPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    rightPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    speakerIsLeft: 1
+  - speakerName: 
+    text: "*Emilia dispara correndo na dire\xE7\xE3o do amigo, gritando e preocupada."
+    leftPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    rightPortrait: {fileID: 7482667652216324306, guid: 02bed65c2027f8643b76e4505b16989e, type: 3}
+    speakerIsLeft: 1
+  - speakerName: "Em\xEDlia"
+    text: "-Jonathan! Meu Deus! Voc\xEA t\xE1 bem?\n-Desculpa eu..."
+    leftPortrait: {fileID: 21300000, guid: 5b0f4d4eb1f8ae444a3d2ec9332f3361, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 8caedf784575d70499f26b8ea77dbda9, type: 3}
+    speakerIsLeft: 1
+  - speakerName: Jonathan
+    text: "-Eu to bem! T\xE1 tudo bem. Eu s\xF3 t\xF4\u2026 Cof, Cof\u2026 bem cansado\u2026
+      Porra! \n-Voc\xEA conseguiu ajudar a Luana? "
+    leftPortrait: {fileID: 21300000, guid: 8caedf784575d70499f26b8ea77dbda9, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 435c5fc3c6cd9e449bf1aa0da2715463, type: 3}
+    speakerIsLeft: 1
+  - speakerName: "Em\xEDlia"
+    text: "-Sim! Ela vai ficar bem. \n-Desculpa, eu n\xE3o consegui te ajudar..."
+    leftPortrait: {fileID: 21300000, guid: 1a3a4157e683c5841b2c216d72eb59df, type: 3}
+    rightPortrait: {fileID: 21300000, guid: 8caedf784575d70499f26b8ea77dbda9, type: 3}
+    speakerIsLeft: 1
