@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: 11c1509b55d67ed4bbc41bc7a1c80df0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2137832468817813688
+    second: "express\xF5es_0"
+  - first:
+      213: 2220749443763431609
+    second: "express\xF5es_1"
+  - first:
+      213: -8424826892889548392
+    second: "express\xF5es_2"
+  - first:
+      213: 5786895363492665212
+    second: "express\xF5es_3"
+  - first:
+      213: -4399247261733493815
+    second: "express\xF5es_4"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "express\xF5es_10"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc818a9b232904c44ab845cb04dfe8a3
+      internalID: -1683483106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "express\xF5es_11"
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1228
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383c2cb3c1cbe74aaa1a81f000a3c93
+      internalID: -1326579506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "express\xF5es_13"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 824
+        width: 920
+        height: 3212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3bd7e90a2339549adbf35e004a830d
+      internalID: 1771116231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "express\xF5es_16"
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 824
+        width: 897
+        height: 3208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd11c705e609fb48b75da2ffe37f455
+      internalID: 344607010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "express\xF5es_17"
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 792
+        width: 769
+        height: 3192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335130fc94237fd48b4097ed5f074ace
+      internalID: -1799289197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "express\xF5es_18"
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 3984
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de51c77793f2f8042a14401fa8e5d953
+      internalID: -234629216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1536, y: -2048}
+      - {x: 1536, y: -2048}
+      - {x: 1536, y: 2048}
+      - {x: -1536, y: 2048}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceOnImport
+        value: False
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":962.0,"y":3412.0},"gridSpriteOffset":{"x":78.0,"y":44.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "express\xF5es_0": 2137832468817813688
+      "express\xF5es_1": 1972991468
+      "express\xF5es_10": -1683483106
+      "express\xF5es_11": -1326579506
+      "express\xF5es_12": -1236362366
+      "express\xF5es_13": 1771116231
+      "express\xF5es_14": -2121341898
+      "express\xF5es_15": -1054010877
+      "express\xF5es_16": 344607010
+      "express\xF5es_17": -1799289197
+      "express\xF5es_18": -234629216
+      "express\xF5es_19": 550660108
+      "express\xF5es_2": -908561876
+      "express\xF5es_20": 1577781590
+      "express\xF5es_21": -1601004336
+      "express\xF5es_22": -1077921572
+      "express\xF5es_23": -848074079
+      "express\xF5es_24": 607276496
+      "express\xF5es_25": -1835657286
+      "express\xF5es_26": 835686483
+      "express\xF5es_27": -564423124
+      "express\xF5es_28": -1499516598
+      "express\xF5es_29": -1302959546
+      "express\xF5es_3": 1767525634
+      "express\xF5es_4": -95619811
+      "express\xF5es_5": 159297664
+      "express\xF5es_6": -158752354
+      "express\xF5es_7": -1249688162
+      "express\xF5es_8": 1972304324
+      "express\xF5es_9": -1204301011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
